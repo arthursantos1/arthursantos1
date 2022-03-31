@@ -1,4 +1,4 @@
-### Olá, Eu sou o Arthur 👋
+### Olá, aqui é o Arthur 👋
 
 <div align="center">
   <a href="https://github.com/arthursantos1">
